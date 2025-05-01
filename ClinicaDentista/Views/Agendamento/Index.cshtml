@@ -1,0 +1,33 @@
+@model IEnumerable<ClinicaDentista.Models.Agendamento>
+
+<h1>Agendamentos</h1>
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-primary">Novo Agendamento</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Paciente</th>
+            <th>Data e Hora</th>
+            <th>Status</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var agendamento in Model)
+        {
+            <tr>
+                <td>@(agendamento.Paciente?.Nome ?? "Paciente não encontrado")</td>
+                <td>@agendamento.DataHora.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>@agendamento.Status</td>
+                <td>
+                    <a href="@Url.Action("Details", new { id = agendamento.Id })" class="btn btn-info btn-sm">Ver</a>
+                    <a href="@Url.Action("Edit", new { id = agendamento.Id })" class="btn btn-warning btn-sm">Editar</a>
+                    <a href="@Url.Action("Delete", new { id = agendamento.Id })" class="btn btn-danger btn-sm">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

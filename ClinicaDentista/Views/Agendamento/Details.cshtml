@@ -1,0 +1,12 @@
+@model ClinicaDentista.Models.Agendamento
+
+
+<h2>Detalhes do Agendamento</h2>
+
+<div>
+    <h4>Paciente: @Model.Paciente?.Nome</h4>
+    <p><strong>Data e Hora:</strong> @Model.DataHora.ToString("dd/MM/yyyy HH:mm")</p>
+    <p><strong>Status:</strong> @Model.Status</p>
+</div>
+
+<a class="btn btn-primary" href="@Url.Action("Index")">Voltar</a>
