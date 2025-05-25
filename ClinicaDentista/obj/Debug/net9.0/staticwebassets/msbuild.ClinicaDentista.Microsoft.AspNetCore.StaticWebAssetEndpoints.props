@@ -12,29 +12,29 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nhkgty6ajz"},{"Name":"integrity","Value":"sha256-u7AkJsSJR9tqriAURRC2oTeCDQ6QDoeHPNnE3gy6VdU="},{"Name":"label","Value":"_content/ClinicaDentista/ClinicaDentista.bundle.scp.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1133"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022u7AkJsSJR9tqriAURRC2oTeCDQ6QDoeHPNnE3gy6VdU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 23:33:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ClinicaDentista/css/estilos.aymp7zjgeb.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\estilos.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"aymp7zjgeb"},{"Name":"integrity","Value":"sha256-ckO29slw9ch9bsUkcACPB3s2Gzk8vgfdn/DHnrezo3Q="},{"Name":"label","Value":"_content/ClinicaDentista/css/estilos.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2656"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ckO29slw9ch9bsUkcACPB3s2Gzk8vgfdn/DHnrezo3Q=\u0022"},{"Name":"Last-Modified","Value":"Sat, 24 May 2025 22:15:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ClinicaDentista/css/estilos.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\estilos.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8Zzmk4pDiuFtAm3reAuzQDQeuGZK2MGEmMdE2lYVoC4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3381"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228Zzmk4pDiuFtAm3reAuzQDQeuGZK2MGEmMdE2lYVoC4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 01 May 2025 18:14:18 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ClinicaDentista/css/estilos.how6mfwllj.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\estilos.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"how6mfwllj"},{"Name":"integrity","Value":"sha256-8Zzmk4pDiuFtAm3reAuzQDQeuGZK2MGEmMdE2lYVoC4="},{"Name":"label","Value":"_content/ClinicaDentista/css/estilos.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3381"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228Zzmk4pDiuFtAm3reAuzQDQeuGZK2MGEmMdE2lYVoC4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 01 May 2025 18:14:18 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ClinicaDentista/css/site.b9sayid5wm.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b9sayid5wm"},{"Name":"integrity","Value":"sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="},{"Name":"label","Value":"_content/ClinicaDentista/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"667"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 22:38:56 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ckO29slw9ch9bsUkcACPB3s2Gzk8vgfdn/DHnrezo3Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2656"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ckO29slw9ch9bsUkcACPB3s2Gzk8vgfdn/DHnrezo3Q=\u0022"},{"Name":"Last-Modified","Value":"Sat, 24 May 2025 22:15:58 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ClinicaDentista/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"667"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 22:38:56 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yYQiV84DIhpIkhM9YHYCQTpYoF3zT7K/s54\u002BGKrRsZQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1862"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022yYQiV84DIhpIkhM9YHYCQTpYoF3zT7K/s54\u002BGKrRsZQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 25 May 2025 02:22:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ClinicaDentista/css/site.ldesl2tcj3.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ldesl2tcj3"},{"Name":"integrity","Value":"sha256-yYQiV84DIhpIkhM9YHYCQTpYoF3zT7K/s54\u002BGKrRsZQ="},{"Name":"label","Value":"_content/ClinicaDentista/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1862"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022yYQiV84DIhpIkhM9YHYCQTpYoF3zT7K/s54\u002BGKrRsZQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 25 May 2025 02:22:05 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ClinicaDentista/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

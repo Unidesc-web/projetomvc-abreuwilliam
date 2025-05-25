@@ -4,26 +4,26 @@ html, body {
     padding: 0;
     height: 100%;
     width: 100%;
-    overflow-x: hidden; /* Impede a rolagem horizontal */
-    box-sizing: border-box; /* Aplica box-sizing: border-box para todos os elementos */
+    overflow-x: hidden;
+    box-sizing: border-box;
+    background-color: #E6E6E6; /* fundo neutro claro */
 }
 
-/* Garantir que todos os elementos usem o box-sizing: border-box */
 *,
 *::before,
 *::after {
-    box-sizing: inherit; /* Herdar o box-sizing de body */
+    box-sizing: inherit;
 }
 
 /* Container do Parallax */
 .parallax-container {
     position: relative;
-    height: 100vh; /* Altura completa da tela */
-    width: 100vw;  /* Largura completa da tela */
+    height: 100vh;
+    width: 100vw;
     background: url('https://st4.depositphotos.com/1028436/22211/i/450/depositphotos_222117920-stock-photo-tooth-black-background-illustration.jpg') no-repeat center center fixed;
-    background-size: cover; /* A imagem vai cobrir toda a área, sem distorcer */
-    background-position: center; /* Garante que a imagem esteja sempre centralizada */
-    margin: 0; /* Garantir que não haja margens extras */
+    background-size: cover;
+    background-position: center;
+    margin: 0;
 }
 
 /* Overlay escuro para o parallax */
@@ -33,86 +33,101 @@ html, body {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.5); /* Cor de fundo escuro com 50% de opacidade */
+    background: rgba(0, 0, 0, 0.5);
     z-index: 1;
 }
 
 /* Estilo para o conteúdo do texto */
 .text-white {
-    color: white;
-    z-index: 2; /* Garante que o texto fique sobre o overlay */
-    position: relative; /* Necessário para o z-index funcionar corretamente */
+    color: #E6E6E6;
+    z-index: 2;
+    position: relative;
     text-align: center;
     padding: 20px;
 }
 
-/* Tamanho e espaçamento para o título */
 h1 {
     font-size: 3rem;
     margin-bottom: 20px;
+    color: #CCCCCC;
 }
 
 /* Estilo para os botões */
-.btn {
+.btn,
+.btn-primary {
     font-size: 1.1rem;
     padding: 10px 20px;
     border-radius: 5px;
+    background-color: #4D4D4D !important; /* cinza médio-escuro */
+    color: #E6E6E6 !important;
+    border: none !important;
+}
+
+.btn:hover,
+.btn-primary:hover {
+    background-color: #666666 !important; /* cinza médio */
+    color: #FFFFFF !important;
+}
+
+/* Estilo para foco */
+.btn:focus,
+.btn-primary:focus {
+    box-shadow: 0 0 0 0.25rem #999999 !important;
+    outline: none;
 }
 
 /* Estilo para o conteúdo abaixo do parallax */
 .content {
     padding: 20px;
     text-align: center;
+    background-color: #F2F2F2;
+    color: #1A1A1A;
 }
-/* Garantir que o conteúdo da página ocupe toda a largura e altura da tela */
+
 .content, .container, .row, .col {
     margin: 0;
     padding: 0;
     width: 100%;
 }
 
-/* Se houver algum elemento com a classe .container, .row ou .col, remova margens e padding */
 .container, .row, .col {
     margin: 0;
     padding: 0;
 }
+
 /* Estilo do rodapé */
 footer {
-    width: 100%; /* O rodapé ocupa toda a largura da tela */
-    background-color: #333; /* Cor de fundo do rodapé */
-    color: white;
+    width: 100%;
+    background-color: #1A1A1A;
+    color: #E6E6E6;
     text-align: center;
-    font-size: 0.9rem; /* Tamanho da fonte */
-    padding: 20px 0; /* Maior espaço para o rodapé */
-    box-sizing: border-box; /* Inclui padding na largura total */
+    font-size: 0.9rem;
+    padding: 20px 0;
+    box-sizing: border-box;
     position: relative;
     bottom: 0;
 }
 
-/* Limitar a largura do conteúdo do rodapé */
 footer .container {
-    width: 80%; /* Limita o conteúdo a 80% da tela */
-    max-width: 960px; /* Largura máxima do conteúdo */
-    margin: 0 auto; /* Centraliza o conteúdo */
+    width: 80%;
+    max-width: 960px;
+    margin: 0 auto;
     box-sizing: border-box;
 }
 
-/* Ajustando o parágrafo de copyright */
 footer p {
     margin: 0;
     padding: 0;
 }
 
-/* Seção de privacidade */
 footer .privacy {
-    font-size: 0.8rem; /* Tamanho de fonte menor para privacidade */
+    font-size: 0.8rem;
     margin-top: 10px;
     text-align: center;
 }
 
-/* Ajuste do link de privacidade para não ficar largo */
 footer .privacy a {
-    color: #fff;
+    color: #CCCCCC;
     text-decoration: none;
 }
 

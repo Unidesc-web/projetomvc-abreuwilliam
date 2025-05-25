@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "V11MIvkR6Tqh2LQb4Sw29aSB85E5ouxXj1fsAxrs1xI=",
+  "Hash": "/fbBESojrzXEBItkLVgJ8t9QHdZHTml/J4+2bjeOajY=",
   "Source": "ClinicaDentista",
   "BasePath": "_content/ClinicaDentista",
   "Mode": "Default",
@@ -269,12 +269,12 @@
       "OriginalItemSpec": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\6ia8ilc6zi-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\6ia8ilc6zi-ldesl2tcj3.gz",
       "SourceId": "ClinicaDentista",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ClinicaDentista",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=ldesl2tcj3}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -283,8 +283,8 @@
       "RelatedAsset": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0suozzrugb",
-      "Integrity": "0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=",
+      "Fingerprint": "b5ab4gxupp",
+      "Integrity": "4aM9RTyM59eALSxatoWGTyTNmdkbiWo8BkYc1NDJ8Z4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\wwwroot\\css\\site.css"
@@ -395,12 +395,12 @@
       "OriginalItemSpec": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\96y241u93n-how6mfwllj.gz",
+      "Identity": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\96y241u93n-aymp7zjgeb.gz",
       "SourceId": "ClinicaDentista",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ClinicaDentista",
-      "RelativePath": "css/estilos#[.{fingerprint=how6mfwllj}]?.css.gz",
+      "RelativePath": "css/estilos#[.{fingerprint=aymp7zjgeb}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -409,8 +409,8 @@
       "RelatedAsset": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\wwwroot\\css\\estilos.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mxxbrsv20s",
-      "Integrity": "diRaaYnDn4XRNCypA+RonU93d021/+yQTeufL1S9wNc=",
+      "Fingerprint": "etmxpiv8qb",
+      "Integrity": "wiKz1oGHtrEhdh7Vb1/wvdq4iqP75Gfypims/SOIfZI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\wwwroot\\css\\estilos.css"
@@ -1438,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "how6mfwllj",
-      "Integrity": "8Zzmk4pDiuFtAm3reAuzQDQeuGZK2MGEmMdE2lYVoC4=",
+      "Fingerprint": "aymp7zjgeb",
+      "Integrity": "ckO29slw9ch9bsUkcACPB3s2Gzk8vgfdn/DHnrezo3Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\estilos.css"
@@ -1459,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "ldesl2tcj3",
+      "Integrity": "yYQiV84DIhpIkhM9YHYCQTpYoF3zT7K/s54+GKrRsZQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -3366,13 +3366,13 @@
       ]
     },
     {
-      "Route": "css/estilos.css",
-      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\96y241u93n-how6mfwllj.gz",
+      "Route": "css/estilos.aymp7zjgeb.css",
+      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\96y241u93n-aymp7zjgeb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000813669650"
+          "Quality": "0.001113585746"
         }
       ],
       "ResponseHeaders": [
@@ -3382,19 +3382,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1228"
+          "Value": "897"
         },
         {
           "Name": "ETag",
-          "Value": "\"diRaaYnDn4XRNCypA+RonU93d021/+yQTeufL1S9wNc=\""
+          "Value": "\"wiKz1oGHtrEhdh7Vb1/wvdq4iqP75Gfypims/SOIfZI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 18:14:18 GMT"
+          "Value": "Sat, 24 May 2025 22:15:58 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3410,18 +3410,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"8Zzmk4pDiuFtAm3reAuzQDQeuGZK2MGEmMdE2lYVoC4=\""
+          "Value": "W/\"ckO29slw9ch9bsUkcACPB3s2Gzk8vgfdn/DHnrezo3Q=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "aymp7zjgeb"
+        },
+        {
+          "Name": "label",
+          "Value": "css/estilos.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-8Zzmk4pDiuFtAm3reAuzQDQeuGZK2MGEmMdE2lYVoC4="
+          "Value": "sha256-ckO29slw9ch9bsUkcACPB3s2Gzk8vgfdn/DHnrezo3Q="
         }
       ]
     },
     {
-      "Route": "css/estilos.css",
+      "Route": "css/estilos.aymp7zjgeb.css",
       "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\wwwroot\\css\\estilos.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3431,7 +3439,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3381"
+          "Value": "2656"
         },
         {
           "Name": "Content-Type",
@@ -3439,121 +3447,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8Zzmk4pDiuFtAm3reAuzQDQeuGZK2MGEmMdE2lYVoC4=\""
+          "Value": "\"ckO29slw9ch9bsUkcACPB3s2Gzk8vgfdn/DHnrezo3Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 18:14:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8Zzmk4pDiuFtAm3reAuzQDQeuGZK2MGEmMdE2lYVoC4="
-        }
-      ]
-    },
-    {
-      "Route": "css/estilos.css.gz",
-      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\96y241u93n-how6mfwllj.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1228"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"diRaaYnDn4XRNCypA+RonU93d021/+yQTeufL1S9wNc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 18:14:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-diRaaYnDn4XRNCypA+RonU93d021/+yQTeufL1S9wNc="
-        }
-      ]
-    },
-    {
-      "Route": "css/estilos.how6mfwllj.css",
-      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\96y241u93n-how6mfwllj.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000813669650"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1228"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"diRaaYnDn4XRNCypA+RonU93d021/+yQTeufL1S9wNc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 18:14:18 GMT"
+          "Value": "Sat, 24 May 2025 22:15:58 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"8Zzmk4pDiuFtAm3reAuzQDQeuGZK2MGEmMdE2lYVoC4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "how6mfwllj"
+          "Value": "aymp7zjgeb"
         },
         {
           "Name": "label",
@@ -3561,13 +3469,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8Zzmk4pDiuFtAm3reAuzQDQeuGZK2MGEmMdE2lYVoC4="
+          "Value": "sha256-ckO29slw9ch9bsUkcACPB3s2Gzk8vgfdn/DHnrezo3Q="
         }
       ]
     },
     {
-      "Route": "css/estilos.how6mfwllj.css",
-      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\wwwroot\\css\\estilos.css",
+      "Route": "css/estilos.aymp7zjgeb.css.gz",
+      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\96y241u93n-aymp7zjgeb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3576,7 +3484,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3381"
+          "Value": "897"
         },
         {
           "Name": "Content-Type",
@@ -3584,56 +3492,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8Zzmk4pDiuFtAm3reAuzQDQeuGZK2MGEmMdE2lYVoC4=\""
+          "Value": "\"wiKz1oGHtrEhdh7Vb1/wvdq4iqP75Gfypims/SOIfZI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 18:14:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "how6mfwllj"
-        },
-        {
-          "Name": "label",
-          "Value": "css/estilos.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8Zzmk4pDiuFtAm3reAuzQDQeuGZK2MGEmMdE2lYVoC4="
-        }
-      ]
-    },
-    {
-      "Route": "css/estilos.how6mfwllj.css.gz",
-      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\96y241u93n-how6mfwllj.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1228"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"diRaaYnDn4XRNCypA+RonU93d021/+yQTeufL1S9wNc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 01 May 2025 18:14:18 GMT"
+          "Value": "Sat, 24 May 2025 22:15:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3651,7 +3514,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "how6mfwllj"
+          "Value": "aymp7zjgeb"
         },
         {
           "Name": "label",
@@ -3659,18 +3522,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-diRaaYnDn4XRNCypA+RonU93d021/+yQTeufL1S9wNc="
+          "Value": "sha256-wiKz1oGHtrEhdh7Vb1/wvdq4iqP75Gfypims/SOIfZI="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\6ia8ilc6zi-b9sayid5wm.gz",
+      "Route": "css/estilos.css",
+      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\96y241u93n-aymp7zjgeb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.001113585746"
         }
       ],
       "ResponseHeaders": [
@@ -3680,19 +3543,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "897"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"wiKz1oGHtrEhdh7Vb1/wvdq4iqP75Gfypims/SOIfZI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:38:56 GMT"
+          "Value": "Sat, 24 May 2025 22:15:58 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3708,26 +3571,155 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"ckO29slw9ch9bsUkcACPB3s2Gzk8vgfdn/DHnrezo3Q=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-ckO29slw9ch9bsUkcACPB3s2Gzk8vgfdn/DHnrezo3Q="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/estilos.css",
+      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\wwwroot\\css\\estilos.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ckO29slw9ch9bsUkcACPB3s2Gzk8vgfdn/DHnrezo3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 22:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ckO29slw9ch9bsUkcACPB3s2Gzk8vgfdn/DHnrezo3Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/estilos.css.gz",
+      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\96y241u93n-aymp7zjgeb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wiKz1oGHtrEhdh7Vb1/wvdq4iqP75Gfypims/SOIfZI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 May 2025 22:15:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wiKz1oGHtrEhdh7Vb1/wvdq4iqP75Gfypims/SOIfZI="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\6ia8ilc6zi-ldesl2tcj3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001282051282"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "779"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4aM9RTyM59eALSxatoWGTyTNmdkbiWo8BkYc1NDJ8Z4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 02:22:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yYQiV84DIhpIkhM9YHYCQTpYoF3zT7K/s54+GKrRsZQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yYQiV84DIhpIkhM9YHYCQTpYoF3zT7K/s54+GKrRsZQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
       "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3737,7 +3729,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "1862"
         },
         {
           "Name": "Content-Type",
@@ -3745,11 +3737,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"yYQiV84DIhpIkhM9YHYCQTpYoF3zT7K/s54+GKrRsZQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:38:56 GMT"
+          "Value": "Sun, 25 May 2025 02:22:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yYQiV84DIhpIkhM9YHYCQTpYoF3zT7K/s54+GKrRsZQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\6ia8ilc6zi-ldesl2tcj3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "779"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4aM9RTyM59eALSxatoWGTyTNmdkbiWo8BkYc1NDJ8Z4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 02:22:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4aM9RTyM59eALSxatoWGTyTNmdkbiWo8BkYc1NDJ8Z4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ldesl2tcj3.css",
+      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\6ia8ilc6zi-ldesl2tcj3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001282051282"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "779"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4aM9RTyM59eALSxatoWGTyTNmdkbiWo8BkYc1NDJ8Z4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 02:22:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yYQiV84DIhpIkhM9YHYCQTpYoF3zT7K/s54+GKrRsZQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ldesl2tcj3"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yYQiV84DIhpIkhM9YHYCQTpYoF3zT7K/s54+GKrRsZQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ldesl2tcj3.css",
+      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yYQiV84DIhpIkhM9YHYCQTpYoF3zT7K/s54+GKrRsZQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 02:22:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3759,7 +3896,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "ldesl2tcj3"
         },
         {
           "Name": "label",
@@ -3767,13 +3904,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-yYQiV84DIhpIkhM9YHYCQTpYoF3zT7K/s54+GKrRsZQ="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\6ia8ilc6zi-b9sayid5wm.gz",
+      "Route": "css/site.ldesl2tcj3.css.gz",
+      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\6ia8ilc6zi-ldesl2tcj3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3782,7 +3919,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "779"
         },
         {
           "Name": "Content-Type",
@@ -3790,11 +3927,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"4aM9RTyM59eALSxatoWGTyTNmdkbiWo8BkYc1NDJ8Z4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:38:56 GMT"
+          "Value": "Sun, 25 May 2025 02:22:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3812,7 +3949,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "ldesl2tcj3"
         },
         {
           "Name": "label",
@@ -3820,144 +3957,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\6ia8ilc6zi-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003134796238"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:38:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:38:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\William Abreu\\Desktop\\.net\\projetomvc-abreuwilliam\\ClinicaDentista\\obj\\Debug\\net9.0\\compressed\\6ia8ilc6zi-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 22:38:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-4aM9RTyM59eALSxatoWGTyTNmdkbiWo8BkYc1NDJ8Z4="
         }
       ]
     },

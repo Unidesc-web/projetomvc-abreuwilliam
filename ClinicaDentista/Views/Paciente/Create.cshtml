@@ -9,7 +9,6 @@
         <span asp-validation-for="Nome" class="text-danger"></span>
     </div>
 
-    <form asp-action="Create" method="post">
     <div class="form-group">
         <label asp-for="CPF" class="control-label"></label>
         <input asp-for="CPF" class="form-control" id="cpf" maxlength="14" />
@@ -19,7 +18,6 @@
         <label asp-for="Telefone" class="control-label"></label>
         <input asp-for="Telefone" class="form-control" id="telefone" maxlength="15" />
     </div>
-</form>
 
     <div class="form-group">
         <label asp-for="DataNascimento" class="control-label"></label>
@@ -53,5 +51,3 @@
         });
     });
 </script>
-
- 

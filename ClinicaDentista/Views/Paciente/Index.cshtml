@@ -29,6 +29,7 @@
             <td>@item.CPF</td>
             <td>@item.Telefone</td>
             <td>
+                 <a href="@Url.Action("Details", new { id = item.Id })" class="btn btn-info btn-sm">Ver</a>
                 <a href="@Url.Action("Edit", "Paciente", new { id = item.Id })" class="btn btn-warning btn-sm">Editar</a>
                 <a href="@Url.Action("Delete", "Paciente", new { id = item.Id })" class="btn btn-danger btn-sm" onclick="return confirm('Tem certeza que deseja excluir este paciente?');">Excluir</a>
             </td>

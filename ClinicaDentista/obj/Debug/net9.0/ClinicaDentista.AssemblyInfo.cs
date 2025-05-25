@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClinicaDentista")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58898ae93f2abe12523d50d8eaa993c1664c09d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e758cf5bd410b57c6502b8c5e22bf8e503a19ec9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClinicaDentista")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClinicaDentista")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ namespace ClinicaDentista.Models
         public string Nome { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "O CPF é obrigatório.")]
-        [StringLength(11, ErrorMessage = "O CPF deve ter no máximo 14 caracteres.")]
+        [StringLength(14, ErrorMessage = "O CPF deve ter no máximo 30 caracteres.")]
         public string CPF { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "O telefone é obrigatório.")]

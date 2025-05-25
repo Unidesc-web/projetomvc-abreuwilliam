@@ -510,7 +510,6 @@ C:\Users\William Abreu\Desktop\.net\projetomvc-abreuwilliam\ClinicaDentista\obj\
 C:\Users\William Abreu\Desktop\.net\projetomvc-abreuwilliam\ClinicaDentista\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\William Abreu\Desktop\.net\projetomvc-abreuwilliam\ClinicaDentista\obj\Debug\net9.0\scopedcss\bundle\ClinicaDentista.styles.css
 C:\Users\William Abreu\Desktop\.net\projetomvc-abreuwilliam\ClinicaDentista\obj\Debug\net9.0\scopedcss\projectbundle\ClinicaDentista.bundle.scp.css
-C:\Users\William Abreu\Desktop\.net\projetomvc-abreuwilliam\ClinicaDentista\obj\Debug\net9.0\compressed\6ia8ilc6zi-b9sayid5wm.gz
 C:\Users\William Abreu\Desktop\.net\projetomvc-abreuwilliam\ClinicaDentista\obj\Debug\net9.0\compressed\zai0dguqgd-61n19gt1b8.gz
 C:\Users\William Abreu\Desktop\.net\projetomvc-abreuwilliam\ClinicaDentista\obj\Debug\net9.0\compressed\puxpad0tcu-xtxxf3hu2r.gz
 C:\Users\William Abreu\Desktop\.net\projetomvc-abreuwilliam\ClinicaDentista\obj\Debug\net9.0\compressed\1ue3eoan6d-bqjiyaj88i.gz
@@ -589,4 +588,5 @@ C:\Users\William Abreu\Desktop\.net\projetomvc-abreuwilliam\ClinicaDentista\obj\
 C:\Users\William Abreu\Desktop\.net\projetomvc-abreuwilliam\ClinicaDentista\obj\Debug\net9.0\ClinicaDentista.pdb
 C:\Users\William Abreu\Desktop\.net\projetomvc-abreuwilliam\ClinicaDentista\obj\Debug\net9.0\ClinicaDentista.genruntimeconfig.cache
 C:\Users\William Abreu\Desktop\.net\projetomvc-abreuwilliam\ClinicaDentista\obj\Debug\net9.0\ref\ClinicaDentista.dll
-C:\Users\William Abreu\Desktop\.net\projetomvc-abreuwilliam\ClinicaDentista\obj\Debug\net9.0\compressed\96y241u93n-how6mfwllj.gz
+C:\Users\William Abreu\Desktop\.net\projetomvc-abreuwilliam\ClinicaDentista\obj\Debug\net9.0\compressed\96y241u93n-aymp7zjgeb.gz
+C:\Users\William Abreu\Desktop\.net\projetomvc-abreuwilliam\ClinicaDentista\obj\Debug\net9.0\compressed\6ia8ilc6zi-ldesl2tcj3.gz

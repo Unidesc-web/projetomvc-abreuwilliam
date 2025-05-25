@@ -23,7 +23,7 @@ namespace ClinicaDentista.Controllers
         {
             _logger.LogInformation("Acessando a lista de pacientes.");
 
-            var pacientes = await _context.Pacientes.ToListAsync();
+            var pacientes = _context.Pacientes.ToList();
 
             _logger.LogInformation($"Total de pacientes encontrados: {pacientes.Count}");
             return View(pacientes);
