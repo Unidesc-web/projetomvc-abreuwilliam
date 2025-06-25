@@ -19,5 +19,5 @@ Este é um sistema de gestão para clínicas odontológicas desenvolvido em **C#
 
 ## 🚀 Como Executar
 
-1. Clone o repositório:
+ Clone o repositório:
  
