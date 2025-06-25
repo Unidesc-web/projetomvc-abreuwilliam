@@ -13,7 +13,7 @@ Este é um sistema de gestão para clínicas odontológicas desenvolvido em **C#
 ## 🛠️ Tecnologias Utilizadas
 
 - **Linguagem**: C#
-- **Plataforma**: .NET Framework / Windows Forms (ou WPF, caso tenha usado)
+- **Plataforma**: .NET Framework 
 - **Banco de Dados**: SQLite 
 - **ORM**: Entity Framework (se aplicável)
 
