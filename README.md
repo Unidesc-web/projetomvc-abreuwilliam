@@ -14,11 +14,10 @@ Este é um sistema de gestão para clínicas odontológicas desenvolvido em **C#
 
 - **Linguagem**: C#
 - **Plataforma**: .NET Framework / Windows Forms (ou WPF, caso tenha usado)
-- **Banco de Dados**: SQL Server / SQLite (dependendo do que você usou)
+- **Banco de Dados**: SQLite 
 - **ORM**: Entity Framework (se aplicável)
 
 ## 🚀 Como Executar
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+ 
