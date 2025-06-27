@@ -1,0 +1,31 @@
+@using ClinicaDentista.Models
+@model IEnumerable<ClinicaDentista.Models.Paciente>
+
+
+@{
+    ViewData["Title"] = "Pacientes";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>CPF</th>
+            <th>Telefone</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Nome</td>
+            <td>@item.CPF</td>
+            <td>@item.Telefone</td>
+            <td><a href="@Url.Action("Details", new { id = item.Id })">Detalhes</a></td>
+        </tr>
+    }
+    </tbody>
+</table>

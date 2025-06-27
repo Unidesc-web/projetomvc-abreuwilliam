@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<head>
+    <!-- Referência ao CSS -->
+    <link href="~/css/estilos.css" rel="stylesheet" />
+</head>
+
+<body>
+    <!-- Container Parallax -->
+    <div class="parallax-container">
+        <!-- Overlay escuro -->
+        <div class="parallax-overlay">
+            <!-- Texto centralizado -->
+            <div class="text-white">
+                <h1 class="display-4">Bem-vindo à Clínica Dentista Hendrick</h1>
+                
+
+                <!-- Botões de navegação -->
+                <a class="btn btn-primary m-2" asp-controller="Paciente" asp-action="Index">Ver Pacientes</a>
+                <a class="btn btn-primary m-2" asp-controller="Agendamento" asp-action="Index">Agendamentos</a>
+                <a class="btn btn-primary m-2" asp-controller="Paciente" asp-action="Create">Cadastrar Paciente</a>
+                <a class="btn btn-primary m-2" asp-controller="Agendamento" asp-action="Create">Cadastrar Agendamento</a>
+            </div>
+        </div>
+    </div>
+
+    
+</body>
